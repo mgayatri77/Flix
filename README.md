@@ -20,4 +20,4 @@ Uses the Movie DataBase API - https://developers.themoviedb.org/3/getting-starte
 - [x] (5pts) User can tap a cell to see more details about a particular movie.
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/mx9YckZE.gif" width=250><br>
